@@ -9,8 +9,8 @@
 <body>
 
 <?php
-$age = 12;
-$height = 140;
+$age = 40;
+$height = 180;
 /*
         if (($age > 15) || ($age > 65)) {
             $entryfee = 100;
